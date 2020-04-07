@@ -4,3 +4,5 @@ resolusi tahun 2020
 3. teknikal analysis
 4. fundamental analysis
 5. software office
+6. machine learning
+7. deep learning
