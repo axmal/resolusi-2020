@@ -1,7 +1,9 @@
 resolusi tahun 2020
 1. data science
 2. website development
+   - front end
+   - back end
 3. teknikal analysis
 4. fundamental analysis
 5. software office
-6. hacking
+6. design grafis
