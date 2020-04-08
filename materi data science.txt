@@ -1,0 +1,6 @@
+materi data scince
+1. machine learning
+2. deep learning
+3. artifical neural network
+4. data warehousing
+5. statistics
